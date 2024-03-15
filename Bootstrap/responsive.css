@@ -1,0 +1,47 @@
+
+.grid-item {
+    background-color: #f7f7f7;
+    padding: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    transition: background-color 0.3s ease;
+  }
+  
+  .grid-item:hover {
+    background-color: #e0e0e0;
+  }
+  
+  .carousel-inner img {
+    display: block;
+    margin: 0 auto;
+    max-height: 400px;
+  }
+  
+  .card {
+    border: none;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .card-img-top {
+    display: block;
+    margin: 0 auto;
+    max-height: 200px;
+  }
+  
+  .card-body {
+    text-align: center;
+  }
+  
+  .card {
+    margin: 20px 0;
+  }
+
+.navbar_collapse{
+    display: flex;
+    justify-content: center;
+}
+
+.navbar-brand{
+    font-weight:bold;
+}
+  
